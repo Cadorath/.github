@@ -20,32 +20,6 @@ At Cadorath, we are driven by our core values:
 - **Care About It**: We take responsibility and hold each other accountable.
 - **Own It**: We strive for continuous improvement and passion in our work.
 
-## Getting Started
-
-To get started with our ERP system, please follow the instructions below:
-
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/cadorath/your-repo-name.git
-    ```
-
-2. **Navigate to the project directory**:
-    ```bash
-    cd your-repo-name
-    ```
-
-3. **Set up Docker containers**:
-    ```bash
-    docker-compose up -d
-    ```
-
-4. **Access the application**:
-    Open your browser and navigate to `http://localhost:your-port`.
-
-## Issues List
-
-[Issues](https://github.com/Cadorath/.github-private/issues)
-
 ## Contact Us
 
 For any questions or support, feel free to reach out to us at info@cadorath.com.
