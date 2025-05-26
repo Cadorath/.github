@@ -1,6 +1,6 @@
 # <img src="https://github.com/user-attachments/assets/27fc441c-a115-434a-bcb1-ff5709e41957" alt="Cadorath Logo" width="10%"> &nbsp;&nbsp;&nbsp; Welcome to Cadorath Information Systems
 
-Welcome to the official GitHub organization for **Cadorath Information Systems**. Our repository hosts the code for our in-house ERP system, designed to streamline and enhance our operations across various sectors including aviation, agriculture, and industrial services.
+Welcome to the official GitHub organization for **Cadorath Information Systems**. Our repositories host the code for our in-house ERP systems, designed to streamline and enhance our operations across various sectors including aviation, agriculture, and industrial services.
 
 ## About Us
 
