@@ -22,7 +22,7 @@ At Cadorath, we are driven by our core values:
 
 ## Contact Us
 
-For any questions or support, feel free to reach out to us at info@cadorath.com.
+For any questions or support, feel free to reach out to us at alex.jessup@cadorath.com.
 
 Thank you for being a part of our journey!
 
